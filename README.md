@@ -1,4 +1,4 @@
-- 👋 Hello World, I’m Rekhil Das
+👋 Hello World, I’m Rekhil Das
 
 <!---
 rekhil/rekhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
